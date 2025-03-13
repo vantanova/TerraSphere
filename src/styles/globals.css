@@ -5,6 +5,15 @@
   --foreground: #171717;
 }
 
+@theme {
+  --color-forest-green: #414836;
+  --color-fern-green: #828069;
+  --color-dark-tan: #c7c6b4;
+  --color-light-tan: #dad4c4;
+  --color-light-base: #f3f2ee;
+  --color-gray-blue: #7c8d94;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
